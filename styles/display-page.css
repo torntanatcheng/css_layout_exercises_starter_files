@@ -1,12 +1,14 @@
 body {
-
 	font-size: 0;
 }
 
 .container {
+	margin-top:90px;
 	height:500px;
 	width:800px;
 	border: 1px solid black;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .box-green{
